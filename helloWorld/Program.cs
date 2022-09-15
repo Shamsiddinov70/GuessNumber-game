@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace helloWorld
+namespace GuessNum
 {
     internal class Program
     {
